@@ -45,6 +45,7 @@ The advantages it has are far more superior to the disadvantages though:
 - It uses less for loops to work.
 
 2. How do these pros and cons apply to refactoring the original VBA script?
+
 Pros:
 - It run through all the rows just 1 time in comparison to the other one that runs through it 12 times, one for each ticker.
 - As it does not do any repetitions reading through the info it saves a lot of time, 6 seconds (almost).
